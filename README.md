@@ -49,7 +49,9 @@ house-price-prediction/
 ├── MLproject.ipynb              # EDA, preprocessing, modeling, evaluation
 ├── house_price.csv              # Dataset
 ├── house_price_best_model.pkl   # Saved model + scaler + PCA
-└── README.md
+├── README.md
+├── .gitignore
+└── LICENSE
 ```
 
 ## Getting Started
@@ -69,3 +71,7 @@ jupyter notebook MLproject.ipynb
 | Ritika Navalyal | 02FE24BCS151 |
 
 Under the guidance of **Dr. Satish Bhojannawar**, Dept. of CSE, KLE Technological University
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
