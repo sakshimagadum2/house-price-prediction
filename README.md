@@ -1,6 +1,6 @@
 # 🏠 House Price Prediction
 
-A machine learning project that classifies houses into **Low**, **Medium**, or **High** price categories based on property, location, and socio-economic features. Built for Machine Learning (24ECSC212), KLE Technological University.
+A machine learning project that classifies houses into **Low**, **Medium**, or **High** price categories based on property, location, and socio-economic features. Built for Machine Learning (24ECSC212), KLE Technological University. 
 
 ## Overview
 
