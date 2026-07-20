@@ -2,7 +2,7 @@
 
 A machine learning project that classifies houses into **Low**, **Medium**, or **High** price categories based on property, location, and socio-economic features. Built for Machine Learning (24ECSC212), KLE Technological University. 
 
-## Overview
+## Overview 
 
 Instead of predicting an exact price, this project treats house price prediction as a **multi-class classification problem** — bucketing prices into three categories using `pd.qcut`. This is more interpretable and robust to price variance than regression.
 
